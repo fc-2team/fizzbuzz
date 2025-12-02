@@ -1,5 +1,5 @@
-# 1~15의 fizzbuzz
-for i in range(1,15+1):
+# 16~30의 fizzbuzz
+for i in range(16,30+1):
     if i%15==0:
         print('fizzbuzz')
     elif i%3==0:
