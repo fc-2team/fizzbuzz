@@ -1,3 +1,4 @@
+# 16~30의 fizzbuzz
 for i in range(16,30+1):
     if i%15==0:
         print('fizzbuzz')
